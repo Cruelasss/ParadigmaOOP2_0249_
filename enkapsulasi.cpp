@@ -13,3 +13,9 @@ public:
 
 	}
 };
+
+int main() {
+	remoteLampu lampurumah;
+
+
+}
